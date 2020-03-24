@@ -1,2 +1,2 @@
 ReadMe
-This folder contains Activity Diagram frim Brac University
+This folder contains Activity Diagram from Brac University
